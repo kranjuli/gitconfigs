@@ -1,0 +1,8 @@
+# Include this file in your global ~/.gitconfig like this:
+# windows:
+# [includeIf "gitdir:D:/projects/sides/"]
+#     path = D:/projects/sides/gitconfigs/sides.gitconfig
+
+[user]
+  name = kranjuli
+  email = timit06@googlemail.com
